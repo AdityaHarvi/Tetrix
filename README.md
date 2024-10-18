@@ -1,3 +1,7 @@
+<p align="center">
+    <img width="244" alt="Tetrix" src="https://github.com/user-attachments/assets/598682e6-acac-464f-891c-ceaaebefc5be">
+</p>
+
 # Tetrix
 Tetrix is a novel multiplayer take on the classic Tetris game in which block stacking is done by 4 players working in 4 different directions.
 Like traditional Tetris, the goal is to complete and clear lines to avoid filling the board as the game speeds up.
