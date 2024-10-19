@@ -9,6 +9,9 @@ Points are awarded on line clears and the game ends when a players stack reaches
 The twist is that you must now think multi-directionally, all while attacking or helping your peers, coordinating trades and enduring spectator voted effects.
 The game is designed to be played both cooperatively and competetively. You can try for the highest team score by strategizing, trading and clearing together, or your can sabotage your enemies by blocking them off, stealing their lines and colliding with them directly.
 
+## Gameplay Video
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/eaZZG0F2GuoRv6fN/0.jpg)](https://www.youtube.com/watch?v=eaZZG0F2GuoRv6fN)
+
 ## Running Instructions
 Ensure you have [NodeJS](https://nodejs.org/en/download/) and [npm](https://docs.npmjs.com/cli/v7/configuring-npm/install) installed before continuing.
 - in the root directory, run `npm i`
