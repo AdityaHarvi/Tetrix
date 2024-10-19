@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="244" alt="Tetrix" src="https://github.com/user-attachments/assets/598682e6-acac-464f-891c-ceaaebefc5be">
+    <img width="578" alt="Tetrix" src="https://github.com/user-attachments/assets/3a9796e3-f823-4c4a-b294-1d60fcc8ef2b">
 </p>
 
 # Tetrix
