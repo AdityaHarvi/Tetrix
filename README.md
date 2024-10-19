@@ -10,7 +10,9 @@ The twist is that you must now think multi-directionally, all while attacking or
 The game is designed to be played both cooperatively and competetively. You can try for the highest team score by strategizing, trading and clearing together, or your can sabotage your enemies by blocking them off, stealing their lines and colliding with them directly.
 
 ## Gameplay Video
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/eaZZG0F2GuoRv6fN/0.jpg)](https://www.youtube.com/watch?v=eaZZG0F2GuoRv6fN)
+Please note that this video only captures one real player in the game. Tetrix supports up to 4 active players and many more can join to become "spectators" and vote on special events in the arena.
+
+[![Tetrix Gamepaly Video](https://img.youtube.com/vi/zcKcfV9rwMs/0.jpg)](https://www.youtube.com/watch?v=zcKcfV9rwMs)
 
 ## Running Instructions
 Ensure you have [NodeJS](https://nodejs.org/en/download/) and [npm](https://docs.npmjs.com/cli/v7/configuring-npm/install) installed before continuing.
